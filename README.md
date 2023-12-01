@@ -1,4 +1,4 @@
-# advent-of-data-science-2023
+# Advent of data science 2023
 
 As you probably know [Advent of code](https://adventofcode.com), here is something similar more into data science stuff.
 
