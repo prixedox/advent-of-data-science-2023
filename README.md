@@ -22,7 +22,7 @@ Because I couldn't find anything similar, I had to make one. Definitely not gpt 
 ### Day 4: Exploratory Data Analysis (EDA) - Statistical Analysis
 
 -   **Task:** Conduct basic statistical analysis on the Boston Housing dataset.
--   **Dataset:** [Boston Housing Dataset](https://archive.ics.uci.edu/ml/datasets/Housing "archive.ics.uci.edu")
+-   **Dataset:** [Boston Housing Dataset](https://www.kaggle.com/datasets/altavish/boston-housing-dataset "www.kaggle.com")
 
 ### Day 5: Exploratory Data Analysis (EDA) - Duplicate Entries
 
