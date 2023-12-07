@@ -37,7 +37,7 @@ Because I couldn't find anything similar, I had to make one. Definitely not gpt 
 ### Day 7: Feature Engineering - Encoding Categorical Variables
 
 -   **Task:** Implement one-hot encoding or label encoding for the SMS Spam Collection dataset.
--   **Dataset:** [SMS Spam Collection](https://www.kaggle.com/uciml/sms-spam-collection-dataset "www.kaggle.com")
+-   **Dataset:** [Titanic Dataset](https://www.kaggle.com/c/titanic/data "www.kaggle.com")
 
 ### Day 8: Feature Engineering - Interaction Terms and Polynomial Features
 
