@@ -1,3 +1,6 @@
+# large datasets
+11/bank-full.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
