@@ -5,6 +5,7 @@ bfg.jar
 13/IMDB Dataset.csv
 14/twitter.csv
 15/20_newsgroups/
+18/city_temperature.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
