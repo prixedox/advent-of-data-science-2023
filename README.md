@@ -92,7 +92,7 @@ Because I couldn't find anything similar, I had to make one. Definitely not gpt 
 ### Day 18: Time Series Analysis - Feature Engineering for Time Series
 
 -   **Task:** Implement feature engineering techniques for the Daily Temperature Data.
--   **Dataset:** [UCI Machine Learning Repository - Daily Temperature Data](https://archive.ics.uci.edu/ml/datasets/Daily+and+Sports+Activities "archive.ics.uci.edu")
+-   **Dataset:** [UCI Machine Learning Repository - Daily Temperature Data](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities "www.kaggle.com")
 
 ### Day 19: Unsupervised Learning - K-means Clustering
 
